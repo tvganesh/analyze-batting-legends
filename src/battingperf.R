@@ -103,7 +103,7 @@ rate4 <- function(batsman, name) {
    atitle = paste(name,"-","Runs vs No of 4s" )
    
    # Plot no of 4s and a 2nd order curve fit   
-   plot(runs,x4s, xlab = "Runs", ylab = "Percentage of runs in 4's", main = atitle ) 
+   plot(runs,x4s, xlab = "Runs", ylab = "Number of 4's", main = atitle ) 
    
    # Second order polynomial used
    fit2 <- lm(x4s~poly(runs,2,raw=TRUE))
@@ -168,7 +168,7 @@ rate6 <- function(batsman, name) {
 }
 
 # Plot the dismissals of the batsman as a pie chart
-dismissal <- function(batsman, name) {
+dismissal <- function(df, name) {
   
   # Save the plot
   setwd("./plots")
