@@ -1,4 +1,4 @@
-# analyze-batting-legends
+# Analyzing cricket's batting-legends
 This R project analyzes cricket's batting legends
 
 This R project analyzes the performance of world's cricket batting legends. Specifically this project analyzes the performance 
