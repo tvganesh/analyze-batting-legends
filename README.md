@@ -12,6 +12,6 @@ of the following cricketer's of world repute
 7. Rahul Dravid
 8. AB De Villiers
 
-The design and the code for this has been designed and developed by Tinniam V Ganesh. More details on the analysis can be found at
-https://gigadom.wordpress.com
+The design and the code for this has been designed and developed by Tinniam V Ganesh. More details on the analysis can be found at https://gigadom.wordpress.com/2015/02/06/analyzing-crickets-batting-legends-through-the-mirage-with-r/.
+For more similar posts visit my blog https://gigadom.wordpress.com/
 
